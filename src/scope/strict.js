@@ -1,0 +1,1 @@
+'use strict'; // nos permite poner un bloqueo si se declara sin definir una variable
